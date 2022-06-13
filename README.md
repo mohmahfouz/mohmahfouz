@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7watki
+- 👋 Hi, I’m Mohamed Mahfouz
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning SQL and Tableau
 - 💞️ I’m looking to collaborate on data analysis projects
