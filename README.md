@@ -1,4 +1,5 @@
-Hi, I am Mohamed, a Data Analyst who loves investigating datasets to gain useful insights. I've recently analyzed the A/B testing results of a new landing page for an e-commerce company. I'd love to combine my passion for data science with skills in Python, SQL, Inferential statistics, and Tableau to continue gaining insights to support decision-making for businesses.
+Hi there, I'm Mohamed, a Data Scientist, and a Python Programmer. I love building models to gain insights from data that lets stakeholders take the right business decisions. I recently developed a Jupyter notebook to predict demand using AutoML.
+I also love writing scripts that automate data extraction using Scrapy, Selenium, and playwright.
 
 <!---
 7watki/7watki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
